@@ -2,6 +2,8 @@
 
 # Vite, Nginx and environment variables for a static website at runtime
 
+It's an axample for article: [Vite, Nginx and environment variables for a static website at runtime](https://medium.com/quadcode-life/vite-nginx-and-environment-variables-for-a-static-website-at-runtime-f3d0b2995fc7)
+
 1. Create `.env` file
    ```sh
    cp .env.example .env
